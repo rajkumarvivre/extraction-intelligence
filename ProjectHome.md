@@ -1,0 +1,1 @@
+Extraction is the process that can be done through user requirements. In this approach we concern the ETL as automated from the Ontological approach. This makes the extaction process based on the ontology structures that defines the required attributes to be extracted from the source.
